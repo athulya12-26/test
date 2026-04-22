@@ -1,0 +1,17 @@
+list=[5,7,1,9,3]
+print(list)
+name=["athu","anu","abhi","malu"]
+print(name[0])
+print(name[1])
+print(name[2])
+print(name[3])
+name[2]="ammu"
+print(name)
+name.append("appu")
+print(name)
+name.insert(1,"devu")
+print(name)
+name.remove("anu")
+print(name)
+name.pop(1)
+print(name)

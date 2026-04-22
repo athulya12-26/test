@@ -1,0 +1,11 @@
+colours=["black","white","blue","red","green"]
+print(colours)
+print(colours[2])
+colours[1]="grey"
+print(colours)
+colours.pop(3)
+print(colours)
+colours.append("yellow")
+print(colours)
+colours.remove("green")
+print(colours)
