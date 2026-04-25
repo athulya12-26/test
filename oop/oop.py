@@ -9,3 +9,4 @@ print(type(num))
 
 num=[20,0,0,0]
 print(type(num))
+

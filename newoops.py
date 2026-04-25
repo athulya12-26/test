@@ -15,6 +15,7 @@ class square(Shape):
     def area(self):
         print("the area of square is:",self.s*self.s)
 
+
         
 r=rectangle(l,b)
 r.area()

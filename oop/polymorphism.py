@@ -6,3 +6,5 @@ print(len(x))
 print(len(y))
 print(len(z))
 print(len(a))
+
+
